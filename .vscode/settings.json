@@ -34,4 +34,5 @@
   "cSpell.words": [
     "Antd"
   ],
+  "makefile.configureOnOpen": false,
 }

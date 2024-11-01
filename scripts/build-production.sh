@@ -1,0 +1,1 @@
+docker compose -f docker/production/compose.yaml up

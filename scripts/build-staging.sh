@@ -1,0 +1,1 @@
+docker compose -f docker/staging/compose.yaml up
